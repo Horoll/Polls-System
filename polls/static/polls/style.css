@@ -1,0 +1,8 @@
+body {
+    background: white url("images/background.jpg");
+    background-size: cover;
+    filter:alpha(opacity=40);
+}
+li a {
+    color: blue;
+}
